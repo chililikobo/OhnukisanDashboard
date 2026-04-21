@@ -1,6 +1,6 @@
 # Ohnuki-san Dashboard
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Freeware-orange)](https://chililikobo.github.io/)
 [![Release](https://img.shields.io/github/v/release/chililikobo/OhnukisanDashboard)](https://github.com/chililikobo/OhnukisanDashboard/releases)
 [![Downloads](https://img.shields.io/github/downloads/chililikobo/OhnukisanDashboard/total)](https://github.com/chililikobo/OhnukisanDashboard/releases)
 
