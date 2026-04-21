@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/github/v/release/chililikobo/OhnukisanDashboard?label=Version&color=blue)](https://github.com/chililikobo/OhnukisanDashboard/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/chililikobo/OhnukisanDashboard/total?label=Downloads&color=green)](https://github.com/chililikobo/OhnukisanDashboard/releases/latest)
-[![License](https://img.shields.io/badge/License-Freeware-orange)](#-license--disclaimer--%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%A8%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85)
+[![License](https://img.shields.io/badge/License-Freeware-orange)](#-license--disclaimer--ライセンスと免責事項)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-lightgrey)](#-system-requirements)
 
 [English](#english) | [日本語](#日本語)
