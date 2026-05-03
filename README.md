@@ -81,4 +81,15 @@ Please download the latest version from the Releases page:
   本ソフトウェアは現状有姿で提供されます。使用によるデータの損失やPCの不具合等について、作者は一切の責任を負いません。
 
 ---
+
+## クレジット / Credits (Third-party Libraries)
+
+本プロジェクトでは以下のオープンソース・ライブラリを使用しています。  
+This software uses the following open-source libraries:
+
+*   **[Avalonia UI](https://github.com/AvaloniaUI/Avalonia)** (MIT License)
+*   **[LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2)** (MIT License)
+*   **[SkiaSharp](https://github.com/mono/SkiaSharp)** (MIT License)
+
+---
 © 2026 chilili kobo
