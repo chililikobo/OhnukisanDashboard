@@ -1,9 +1,9 @@
 # Ohnuki-san Dashboard
 
-[![Version](https://badgen.net/github/release/chililikobo/OhnukisanDashboard?label=Version&color=blue)](https://github.com/chililikobo/OhnukisanDashboard/releases/latest)
-[![Downloads](https://badgen.net/github/assets-dl/chililikobo/OhnukisanDashboard?label=Downloads&color=228b22)](https://github.com/chililikobo/OhnukisanDashboard/releases/latest)
-[![License](https://badgen.net/badge/License/Freeware/purple)](#-license--disclaimer--ライセンスと免責事項)
-[![Platform](https://badgen.net/badge/Platform/Windows%2010%20%2F%2011/black)](#-system-requirements)
+[![Version](https://badgen.net/github/release/chililikobo/OhnukisanDashboard)](https://github.com/chililikobo/OhnukisanDashboard/releases/latest)
+[![Downloads](https://badgen.net/github/assets-dl/chililikobo/OhnukisanDashboard)](https://github.com/chililikobo/OhnukisanDashboard/releases/latest)
+[![License](https://badgen.net/badge/license/Freeware/purple)](#-license--disclaimer--ライセンスと免責事項)
+[![Platform](https://badgen.net/badge/platform/Windows%2010%20%2F%2011/black)](#-system-requirements)
 
 [English](#english) | [日本語](#日本語)
 
