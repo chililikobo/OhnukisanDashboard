@@ -83,13 +83,9 @@ Please download the latest version from the Releases page:
 ---
 
 ## クレジット / Credits (Third-party Libraries)
+This application incorporates open-source components. For detailed copyright notices and license agreements, refer to [ThirdPartyNotices.md](ThirdPartyNotices.md).  
 
-本プロジェクトでは以下のオープンソース・ライブラリを使用しています。  
-This software uses the following open-source libraries:
-
-*   **[Avalonia UI](https://github.com/AvaloniaUI/Avalonia)** (MIT License)
-*   **[LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2)** (MIT License)
-*   **[SkiaSharp](https://github.com/mono/SkiaSharp)** (MIT License)
+本ソフトウェアはオープンソースコンポーネントを使用しています。各コンポーネントの著作権表示およびライセンス条文の詳細は [ThirdPartyNotices.md](ThirdPartyNotices.md) をご参照ください。
 
 ---
 © 2026 chilili kobo
